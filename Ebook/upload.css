@@ -1,0 +1,41 @@
+html {
+    height: 100%;
+    width: 100%;
+    background-image: url("images/bookstore.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+h1 { 
+    background-color: white;
+    border: 2px solid black;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: cursive;
+}
+
+#book-form {
+    width: fit-content;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: rgba(209, 209, 209, 0.9);
+    padding: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+#submitbtn {
+    background-color: #87eb8f;
+    border-radius: 10px;
+}
+
+#cancelbtn {
+    background-color: #eb8787;
+    border-radius: 10px;
+}

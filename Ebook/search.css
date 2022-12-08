@@ -1,0 +1,67 @@
+html {
+    height: 100%;
+    width: 100%;
+    background-image: url("images/bookstore.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+h1 { 
+    background-color: white;
+    border: 2px solid black;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: cursive;
+}
+
+input{
+    width: 180px;
+    margin: 5px;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+
+.icon {
+    padding: 10px;
+    min-width: 40px;
+}
+
+.main-nav {
+    cursor: pointer;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    height: 120;
+    width: 30%;
+  }
+
+.main-nav li {
+    list-style: none;
+    float: left;
+  }
+
+  #search {
+    border: 2px solid black;
+    background-color: rgba(255, 255, 255, 0.8);
+  }
+
+#results {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  background-color:white;
+  border: 2px solid black;
+  height:200px;
+  width:60%;
+  font-family: cursive;
+}
+
+#Homepage {
+  left:auto;
+}
+
+

@@ -1,0 +1,20 @@
+body h1{
+    text-align:center;
+}
+body table{
+    margin-left:auto;
+    margin-right:auto;
+}
+body table p{
+    margin-top:0;
+    font-size:xx-large;
+}
+button#rent{
+    text-align:center;
+    vertical-align:center;
+    margin:auto;
+    display:grid;
+    font-size:xx-large;
+    height:50px;
+    width:100px;
+}
