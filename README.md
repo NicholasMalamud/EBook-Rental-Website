@@ -1,4 +1,7 @@
 # EBook-Rental-Website
+
+View here: https://nicholasmalamud.github.io/EBookRentalWebsite.html
+
 Web Programming Class Project: Website for renting and uploading eBooks
 
 Features:
